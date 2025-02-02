@@ -1,5 +1,5 @@
 #Author: Daniel Ornelas
-#Test Case Outsera
+#Test 2 Case Outsera
 Feature: Realizar compra e validar confirmação do pedido.
 
   # Realizar o acesso ao site "https://automationexercise.com/",
