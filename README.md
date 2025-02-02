@@ -7,3 +7,6 @@ formulário com os dados de pagamento e finalização da compra.
 - Avaliação: Complexidade do cenário, boa prática de automação e
 estabilidade do teste.
  Relatório: Gerar e apresentar um relatório detalhado dos testes E2E.
+
+Site utilizado: https://automationexercise.com/
+Gera o report: ..target/cucumber-reports.html
