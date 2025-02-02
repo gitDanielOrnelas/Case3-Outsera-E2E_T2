@@ -1,0 +1,22 @@
+pages\ProductDataForm.class
+<<<<<<< HEAD
+pages\PriceOptionsForm.class
+configGeral\java\Web.class
+pages\SendQuoteForm.class
+webdriver\java\HomePageUnit.class
+pages\ValidaMensagemForm.class
+pages\GeralPages.class
+webdriver\java\GeralForm.class
+pages\VehicleDataForm.class
+pages\InsurantDataForm.class
+=======
+pages\SendQuoteForm.class
+webdriver\java\HomePageUnit.class
+pages\GeralPages.class
+configGeral\java\Web.class
+pages\VehicleDataForm.class
+pages\InsurantDataForm.class
+pages\ValidaMensagemForm.class
+webdriver\java\GeralForm.class
+pages\PriceOptionsForm.class
+>>>>>>> 330a214 (up adjusts)
